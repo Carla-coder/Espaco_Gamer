@@ -4,7 +4,7 @@
 
 ## Descrição
 
-- A Homepage Espaço Gamer é um site simples em fase de construção para aimplementação de jogos educativos, interativos e de conhecimentos em geral. Aqui está uma visão geral das funcionalidades e recursos implementados neste projeto.
+- A Homepage Espaço Gamer é um site simples em fase de construção para implementação de jogos educativos, interativos e de conhecimentos em geral. Aqui está uma visão geral das funcionalidades e recursos implementados neste projeto.
 
 ## Funcionalidades
 
