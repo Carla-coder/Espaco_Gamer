@@ -96,7 +96,7 @@ espaco-gamer.vercel.app
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@octokatherine](https://www.github.com/Carla-coder)
 
 
 ## Instituição de Ensino
