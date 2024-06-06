@@ -16,7 +16,7 @@
 
 - **Integração com Redes Sociais**: Ícones de redes sociais conectam os usuários às plataformas de mídia social, permitindo que eles se envolvam e interajam conosco em diversas plataformas.
 
-- **Botão de Áudio**: Um botão de controle de áudio permite que os usuários reproduzam e pausam a música de fundo enquanto navegam pela página, proporcionando uma experiência auditiva agradável.
+- **Botão de Áudio**: Um botão de controle de áudio permite que os usuários reproduzam e pausem a música de fundo enquanto navegam pela página, proporcionando uma experiência auditiva agradável.
 
 ## Tecnologias utilizadas
 
