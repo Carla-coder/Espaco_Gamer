@@ -35,7 +35,7 @@
 
 - **Canva** - Criação da Logo.
 
-- **https://pixabay.com/** - Áudio de música de games grátis para download. Música utilizada: Neon Gaming/dopestuff
+- **https://pixabay.com/** - Áudio de música para games grátis para download. **Música utilizada**: Neon Gaming/dopestuff
 
 ## Como rodar o projeto
 
