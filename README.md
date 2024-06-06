@@ -78,7 +78,7 @@ espaco-gamer.vercel.app
 
 ## Print das Telas
 
-- Página Inciaal
+- Página Inicial
 
 ![tela inicial](https://github.com/Carla-coder/Espaco_Gamer/assets/128012862/168e3f1a-31af-4ea1-9c24-07a99f796d8c)
 
