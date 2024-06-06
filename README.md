@@ -56,7 +56,7 @@ espaco-gamer.vercel.app
 ```
 ## Aprendizados
 
-- Construir o projeto Espaço Gamer foi uma experiência valiosa que me permitiu aprender várias coisas interessantes. Aqui estão algumas lições que aprendi durante o processo de desenvolvimento:
+### Construir o projeto Espaço Gamer foi uma experiência valiosa que me permitiu aprender várias coisas interessantes. Aqui estão algumas lições que aprendi durante o processo de desenvolvimento:
 
 - **Gerenciamento de Layout**: Aprendi a criar layouts estilizados usando HTML e CSS. Isso incluiu interação de elementos na página e a implementação de estilos visuais.
 
